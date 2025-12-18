@@ -1,0 +1,6 @@
+CustomerID,OrderID,CustomerName,Region
+C01,101,Rahul,South
+C02,102,Anita,West
+C03,103,Suresh,East
+C04,104,Meena,North
+C05,105,Kiran,South
